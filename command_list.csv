@@ -1,0 +1,105 @@
+    1  git config --global user.name "Andriichuk Oleksandr"
+    2  git config --global user.email smaktavish21@gmail.com
+    3  git clone https://github.com/OleksandrAndriichuk/HW_10.git
+    4  pwd
+    5  cd HW_10/
+    6  pwd
+    7  pwd
+    8  ls
+    9  git touch text_ignore.txt
+   10  touch text_ignore.txt
+   11  git status
+   12  clear
+   13  pwd
+   14  ls
+   15  clear
+   16  pwd
+   17  ls
+   18  ls -0
+   19  --help
+   20  help
+   21  clear
+   22  ls -a
+   23  ls
+   24  nano .gitignore 
+   25  git status
+   26  clear
+   27  pwd
+   28  ls
+   29  git status
+   30  git add .gitignore 
+   31  git status
+   32  git add text_ignore.txt 
+   33  git status
+   34  git commit -m "Changes made"
+   35  git status
+   36  git nano main_text.txt
+   37  nano main_text.txt
+   38  git log
+   39  git status
+   40  git add main_text.txt
+   41  git status
+   42  git log
+   43  git status
+   44  git commit -m "Changes made 2"
+   45  git log
+   46  git status
+   47  git log
+   48  git log
+   49  clear
+   50  git log
+   51  git status
+   52  git branch
+   53  git checkout -b develop
+   54  git branch
+   55  git checkout main
+   56  git branch
+   57  git checkout develop
+   58  git branch 
+   59  clear
+   60  git branch
+   61  nano develop_test.txt
+   62  git mv main_text.txt main_test.txt
+   63  pwd
+   64  ls
+   65  git status
+   66  git add develop_test.txt
+   67  git status
+   68  git commit -m "Changes made 3"
+   69  git log
+   70  clear
+   71  nano develop_test.txt 
+   72  cd develop_test.txt 
+   73  pwd
+   74  cd develop_test.txt 
+   75  cat develop_test.txt 
+   76  git status
+   77  git add develop_test.txt 
+   78  git status
+   79  git commit -m "Changes made 4"
+   80  git log
+   81  clear
+   82  git log
+   83  git branch
+   84  git checkout
+   85  git branch
+   86  git checkout main
+   87  git branch
+   88  git merge develop main
+   89  git branch
+   90  git status
+   91  git log
+   92  git branch
+   93  clear
+   94  git status
+   95  got log
+   96  git log
+   97  clear
+   98  git branch
+   99  git merge develop
+  100  git branch
+  101  git log
+  102  git status
+  103  command list.csv
+  104  command_list.csv
+  105  history > command_list.csv
